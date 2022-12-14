@@ -15,7 +15,7 @@ export default function GameOverScreen(props) {
 
 const styles = StyleSheet.create({
     screen:{
-        flex:1,
+        flex:2,
         justifyContent:'center',
         alignItems:'center'
     }
